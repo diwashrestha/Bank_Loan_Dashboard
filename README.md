@@ -8,6 +8,13 @@ Tools Used
 - Power Query (Data Transformation)
 
 ## Screenshots
-- Summary Page
+- **Summary Page**
 ![Summary Page](image/summary.png)
+
+- **Overview Page**
+![Overview Page](image/overview.png)
+
+
+- **Details Page**
+![Details Page](image/details.png)
 
